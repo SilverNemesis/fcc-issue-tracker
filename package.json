@@ -1,0 +1,31 @@
+{
+    "name": "fcc-issue-tracker",
+    "version": "1.0.0",
+    "description": "Issue Tracker",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "node server.js test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SilverNemesis/fcc-issue-tracker.git"
+    },
+    "author": "Donald Fries",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SilverNemesis/fcc-issue-tracker/issues"
+    },
+    "homepage": "https://github.com/SilverNemesis/fcc-issue-tracker#readme",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "chai": "^3.5.0",
+        "chai-http": "^4.3.0",
+        "cors": "^2.8.1",
+        "express": "^4.14.0",
+        "helmet": "^3.1.0",
+        "mocha": "^6.1.4",
+        "mongodb": "^3.2.7",
+        "zombie": "^6.1.4"
+    }
+}
