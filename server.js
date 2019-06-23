@@ -1,9 +1,5 @@
 'use strict'
 
-// TODO Complete the project in routes/api.js or by creating a handler/controller
-// TODO You will add any security features to server.js
-// TODO You will create all of the functional tests in tests/2_functional-tests.js
-
 const express = require('express')
 const bodyParser = require('body-parser')
 const cors = require('cors')
