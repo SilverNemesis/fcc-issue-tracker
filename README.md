@@ -1,4 +1,4 @@
-# Issue Track
+# Issue Tracker
 
 This is the Issue Tracker that I created as my [Issue Tracker](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker) project at [freeCodeCamp](https://www.freecodecamp.org).
 
